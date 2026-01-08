@@ -1,7 +1,3 @@
-#prueba de que si se suben los cambios a git
-#segunda prueba
-#prueba 3
-#pruba numero 4
 import tkinter as tk
 from controller.controller import Controlador_principal
 
