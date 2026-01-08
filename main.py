@@ -1,4 +1,5 @@
 #prueba de que si se suben los cambios a git
+#segunda prueba
 import tkinter as tk
 from controller.controller import Controlador_principal
 
